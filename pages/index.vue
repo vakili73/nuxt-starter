@@ -148,13 +148,7 @@
         <!-- /TOP CONTAINER -->
         <!-- TOP IMAGE -->
         <img
-          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-          data-srcset="https://picsum.photos/640/700/?image=816 640w,
-				https://picsum.photos/960/700/?image=816 960w,
-				https://picsum.photos/1200/900/?image=816 1200w,
-				https://picsum.photos/2000/1000/?image=816 2000w"
-          data-sizes="100vw"
-          data-src="https://picsum.photos/1200/900/?image=816"
+          src="/f637539f635305b0.jpg"
           alt
           data-uk-cover
           data-uk-img
