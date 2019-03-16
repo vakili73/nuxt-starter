@@ -5,6 +5,8 @@
         "debug": "node --nolazy --inspect-brk=9229 node_modules/nuxt/bin/nuxt.js"
     },
     "dependencies": {
-        "nuxt": "^2.4.5"
+        "axios": "^0.18.0",
+        "nuxt": "^2.4.5",
+        "uuid": "^3.3.2"
     }
 }
